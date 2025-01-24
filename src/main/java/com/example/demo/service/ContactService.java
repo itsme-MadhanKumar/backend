@@ -10,7 +10,7 @@ import java.net.URL;
 public class ContactService
 {
     // Replace with your credentials and recipient details
-    private static final String ACCESS_TOKEN = "EAAJA8JEyF64BOzwJeOjtY5NBUcJWLjwq0hWJU4hw29T3vEmEdimbf1CzZCY3EBqO38FHMOgFdu0n3v24wk4bx8fQlZBXbVzZCIiGw3prCVJACcZBmb8axXIouh2HYyBq3lW6aSgHAExarM3Q6lRtW1jQEKSyOsgZAYu2YDJ6AOc7SwPEaVwDyVso9Vewc3aYFqbzDKj2bdP8bLranWqRK9beq0SiA3ZA7lSwCC";
+    private static final String ACCESS_TOKEN = "EAAJA8JEyF64BOwRXVRV9VPulMGznIWQUSbKMHZChv0ZB3GJ914Y5BYsnyQwoTybPTBpahNnHA1Y7MdEfW0W5C4sMkKLRDNcqjaa4t0YlVMSugcBmwdqcLF57AZC2o13ZBYKHcq08jYj3LpcBZClv9MJ7MD8ZCUYsDLt4OMiIKTrkqX8FA0ELUPGdZBfTguQ047qjua2htRmWhG2BaI4QX7z88BaruyLuYBPsAoZD";
     private static final String PHONE_NUMBER_ID = "506479735890397"; // WhatsApp Business Number ID
     private static final String RECIPIENT_PHONE = "+919788358119"; // Replace with recipient's phone number
 
