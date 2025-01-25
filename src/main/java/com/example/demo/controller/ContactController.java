@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "https://strong-nasturtium-c9f57a.netlify.app")
+@CrossOrigin(origins = "http://127.0.0.1:5500")
 public class ContactController
 {
     @Autowired
